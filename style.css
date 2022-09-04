@@ -1,0 +1,113 @@
+.list {
+    position: absolute;
+    left: 500px;
+    font-size: 30px;
+    font-family: "Roboto Mono";
+    top:-10px;
+  }
+  .list-item {
+    position: relative;
+    display: inline;
+    padding: 20px;
+    left: 10px;
+  }
+  .button-group {
+    display: inline;
+    position: absolute;
+    right: 0px;
+  }
+  .search-icon {
+    top: 40px;
+    display: inline;
+    position: absolute;
+    right: 260px;
+  }
+
+  .nav-button {
+    display: inline;
+    position: absolute;
+    top: 30px;
+    right: 100px;
+    height: 50px;
+    width: 140px;
+    border-radius: 10px;
+    font-family: "Roboto Mono";
+    font-size:20px;
+  }
+  .star {
+    position: absolute;
+    right: 100px;
+    top: 300px;
+  }
+  .globe {
+    position: absolute;
+    right: 700px;
+    top: 240px;
+  }
+  .square {
+    position: absolute;
+    left: 310px;
+    top: 470px;
+  }
+  .hero-heading {
+    position: absolute;
+    right: 120px;
+    top: 330px;
+    font-size: 50px;
+    font-family: "Roboto Mono", monspace;
+  }
+  .hero-description {
+    position: absolute;
+    top: 200px;
+    left: 800px;
+    top: 450px;
+    font-size: 20px;
+  }
+  .button-email {
+    position: absolute;
+    right: 400px;
+    top: 570px;
+    height: 40px;
+    width: 140px;
+    border-radius: 10px;
+    font-family: "Roboto Mono";
+  }
+  .button-join {
+    position: absolute;
+    right: 250px;
+    top: 570px;
+    width: 120px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: #000000;
+    color: #ffffff;
+    font-family: "Roboto Mono";
+  }
+  .contact-heading {
+    position: absolute;
+    right: 300px;
+    top: 630px;
+    font-size: 30px;
+  }
+  .icons {
+    position: absolute;
+    right: 280px;
+    top: 730px;
+  }
+  .navbar-container {
+    display: inline;
+  }
+  .logo {
+    display: inline;
+    position: absolute;
+    top: 30px;
+    left: 250px;
+  }
+  .image {
+    position: absolute;
+    top: 140px;
+    left: 100px;
+  }
+  li:first-child {
+    font-size:50px;
+  }
